@@ -1,5 +1,5 @@
 # StudyNotes
-学习笔记
+	学习笔记
 ##第一部分
 * [Algorithm(算法)]()
  	* [排序](https://github.com/anAngryAnt/StudyNotes/tree/master/Part3/Algorithm/Sort)
