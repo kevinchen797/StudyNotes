@@ -6,7 +6,7 @@ public class QuickSort {
 		int[] args = {8, 2, 1, 4,6, 3, 5, 9, 6,11,19,13,55,67,32};
 		quickSort(args, 0, args.length-1);
 		for(int i = 0; i < args.length; i++) {
-			System.out.println(args[i]);
+			System.out.print(args[i] + ", ");
 		}
 		
 	}
