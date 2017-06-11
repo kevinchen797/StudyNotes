@@ -11,8 +11,7 @@ public class BubbleSort {
 		
 	}
 	
-	public static void bubbleSort(int[] args) 
-    {
+	public static void bubbleSort(int[] args) {
     	//第一层循环从数组的最后往前遍历
 		for (int i = args.length - 1; i > 0 ; --i) {
             //这里循环的上界是 i - 1，在这里体现出 “将每一趟排序选出来的最大的数从sorted中移除”
