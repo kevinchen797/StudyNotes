@@ -1,3 +1,4 @@
+package sort;
 
 public class HeapSort {
 
@@ -21,7 +22,7 @@ public class HeapSort {
     /** 
      * 堆排序 
      */  
-    private static void heapSort(int[] arr) {   
+    public static void heapSort(int[] arr) {   
         // 将待排序的序列构建成一个大顶堆  
         for (int i = arr.length / 2; i >= 0; i--){   
             heapAdjust(arr, i, arr.length);   
