@@ -17,6 +17,7 @@
 
 * [单例模式](https://github.com/dreamfish797/StudyNotes/tree/master/DesignPattern/单例模式.md)
 * [观察者模式](https://github.com/dreamfish797/StudyNotes/tree/master/DesignPattern/观察者模式.md)
+* [原型模式](https://github.com/dreamfish797/StudyNotes/tree/master/DesignPattern/原型模式.md)
 
 >**Android(安卓)**
 
