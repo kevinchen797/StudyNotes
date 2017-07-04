@@ -22,7 +22,8 @@
 >**Android(安卓)**
 
 * [Android 内存泄漏总结](https://github.com/dreamfish797/StudyNotes/tree/master/Android/Android内存泄漏总结.md)
+* [Android录音实现(MediaRecord)](https://github.com/dreamfish797/StudyNotes/tree/master/Android/Android录音实现(MediaRecord).md)
 
 >**Java**
 
-* [浅谈Java 浅拷贝&深拷贝](https://github.com/dreamfish797/StudyNotes/tree/master/Java/浅谈Java 浅拷贝&深拷贝.md)
+* [浅谈Java 浅拷贝&深拷贝](https://github.com/dreamfish797/StudyNotes/tree/master/Java/浅谈Java浅拷贝&深拷贝.md)
