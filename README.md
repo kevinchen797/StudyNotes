@@ -7,7 +7,7 @@
 > **Java**
 
 * [浅谈Java 浅拷贝&深拷贝](https://github.com/dreamfish797/StudyNotes/tree/master/Java/浅谈Java浅拷贝&深拷贝.md)
-* 
+
 ## 第二部分
 
 > **Algorithm(算法)**
@@ -36,3 +36,4 @@
 * [Android 内存泄漏总结](https://github.com/dreamfish797/StudyNotes/tree/master/Android/Android内存泄漏总结.md)
 * [Android录音实现(MediaRecord)](https://github.com/dreamfish797/StudyNotes/tree/master/Android/Android录音实现(MediaRecord).md)
 * [Android录音实现(AudioRecord)](https://github.com/dreamfish797/StudyNotes/tree/master/Android/Android录音实现(AudioRecord).md)
+* [Lambda表达式在Android中的使用](https://github.com/dreamfish797/StudyNotes/tree/master/Android/Lambda表达式在Android中的使用.md)
