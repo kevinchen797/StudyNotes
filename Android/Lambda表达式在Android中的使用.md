@@ -157,7 +157,7 @@ Lambda 表达式的第三种形式，其实和方法引用十分相似，只不�
 
 Android Studio 会在可以转化为 lambda 表达式的代码上进行如图的灰色标识，这时将光标移至灰色区域，按下 Alt + Enter ，选择第一项（方法引用和构造器引用在第二项），IDE 就会自动进行转换。
 
-![](https://github.com/dreamfish797/StudyNotes/tree/master/Android/picture/android使用技巧.bmp)
+![](https://github.com/dreamfish797/StudyNotes/tree/master/Android/picture/20170707215115.png)
 
 ### 变量捕获
 
