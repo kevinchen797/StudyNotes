@@ -37,3 +37,4 @@
 * [Android录音实现(MediaRecord)](https://github.com/dreamfish797/StudyNotes/tree/master/Android/Android录音实现(MediaRecord).md)
 * [Android录音实现(AudioRecord)](https://github.com/dreamfish797/StudyNotes/tree/master/Android/Android录音实现(AudioRecord).md)
 * [Lambda表达式在Android中的使用](https://github.com/dreamfish797/StudyNotes/tree/master/Android/Lambda表达式在Android中的使用.md)
+* [adb使用介绍](https://github.com/dreamfish797/StudyNotes/tree/master/Android/adb使用介绍.md)
