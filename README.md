@@ -40,3 +40,4 @@
 * [adb使用介绍](https://github.com/dreamfish797/StudyNotes/tree/master/Android/adb使用介绍.md)
 * [Activity 详细解析](https://github.com/dreamfish797/StudyNotes/tree/master/Android/Activity详细解析.md)
 * [Service 详细解析](https://github.com/dreamfish797/StudyNotes/tree/master/Android/Service详细解析.md)
+* [BroadcastReceiver 详细解析](https://github.com/dreamfish797/StudyNotes/tree/master/Android/BroadcastReceiver 详细解析.md)
